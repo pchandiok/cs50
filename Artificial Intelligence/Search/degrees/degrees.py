@@ -93,7 +93,23 @@ def shortest_path(source, target):
     """
 
     # TODO
-    raise NotImplementedError
+    # raise NotImplementedError
+    print(f"Source: {source}")
+    print(f"Target: {target}")
+
+    start = Node(state=None, parent=None, action=None)
+    frontier = StackFrontier()
+    frontier.add(start)
+
+    while True:
+        if frontier.empty():
+            raise Excetpion("No Solution")
+        
+        node = frontier.remove()
+
+        if 
+
+    return None
 
 
 def person_id_for_name(name):
