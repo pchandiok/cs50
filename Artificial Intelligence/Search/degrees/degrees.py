@@ -94,23 +94,33 @@ def shortest_path(source, target):
 
     # TODO
     # raise NotImplementedError
-    print(f"Source: {source}")
-    print(f"Target: {target}")
 
-    start = Node(state=None, parent=None, action=None)
-    frontier = StackFrontier()
+    start = Node(state=source, parent=None, action=None)
+    frontier = QueueFrontier()
     frontier.add(start)
+
+    explored = set()
 
     while True:
         if frontier.empty():
-            raise Excetpion("No Solution")
-        
+            raise Exception("No Solution")
+
         node = frontier.remove()
 
-        if 
+        if node.state == target:
+            solutions = []
+            while node.parent is not None:
+                solutions.append((node.action, node.state))
+                node = node.parent
+            solutions.reverse()
+            return solutions
 
-    return None
+        explored.add(node.state)
 
+        for movie, people in neighbors_for_person(node.state):
+            if not people in explored:
+                new_node = Node(state=people, parent=node, action=movie)
+                frontier.add(new_node)
 
 def person_id_for_name(name):
     """
