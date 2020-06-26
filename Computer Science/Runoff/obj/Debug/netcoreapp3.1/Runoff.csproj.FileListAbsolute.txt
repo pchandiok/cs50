@@ -1,0 +1,74 @@
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/appsettings.json
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/Runoff
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/Runoff.deps.json
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/Runoff.runtimeconfig.json
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/Runoff.runtimeconfig.dev.json
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/Runoff.dll
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/Runoff.pdb
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/Runoff.Views.dll
+/home/pchandiok/Public/cs50/Computer Science/Runoff/bin/Debug/netcoreapp3.1/Runoff.Views.pdb
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.csprojAssemblyReference.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.AssemblyInfoInputs.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.AssemblyInfo.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.csproj.CoreCompileInputs.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.MvcApplicationPartsAssemblyInfo.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorAssemblyInfo.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorAssemblyInfo.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.TagHelpers.input.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.TagHelpers.output.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorCoreGenerate.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorTargetAssemblyInfo.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorTargetAssemblyInfo.cs
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.Views.pdb
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/staticwebassets/Runoff.StaticWebAssets.Manifest.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/staticwebassets/Runoff.StaticWebAssets.xml
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.dll
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.pdb
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.genruntimeconfig.cache
+/home/pchandiok/Public/cs50/Computer Science/Runoff/obj/Debug/netcoreapp3.1/Runoff.csproj.CopyComplete
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/appsettings.json
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/Runoff
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/Runoff.deps.json
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/Runoff.runtimeconfig.json
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/Runoff.runtimeconfig.dev.json
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/Runoff.dll
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/Runoff.pdb
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/Runoff.Views.dll
+/home/pchandiok/Public/Runoff/bin/Debug/netcoreapp3.1/Runoff.Views.pdb
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.csprojAssemblyReference.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.AssemblyInfoInputs.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.AssemblyInfo.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.csproj.CoreCompileInputs.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.MvcApplicationPartsAssemblyInfo.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorAssemblyInfo.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorAssemblyInfo.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.TagHelpers.input.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.TagHelpers.output.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorCoreGenerate.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorTargetAssemblyInfo.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.RazorTargetAssemblyInfo.cs
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.Views.pdb
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/staticwebassets/Runoff.StaticWebAssets.Manifest.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/staticwebassets/Runoff.StaticWebAssets.xml
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.dll
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.pdb
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.genruntimeconfig.cache
+/home/pchandiok/Public/Runoff/obj/Debug/netcoreapp3.1/Runoff.csproj.CopyComplete
